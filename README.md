@@ -6,7 +6,7 @@ PowerShell-инструмент с GUI для запуска тестов iPerf3
 и отображения Bitrate, Jitter и Packet Loss в реальном времени
 на трёх отдельных графиках. Поддерживает режимы UDP и TCP.
 
-![]()
+![](https://github.com/Varsett/pictures/blob/8211c004986e1895f7745ded55029b6352164702/iPerf3-RealTime_v2.81.jpg)
 
 ---
 
